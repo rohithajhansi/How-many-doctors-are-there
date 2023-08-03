@@ -1,2 +1,103 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title > What is the best job for you ?</title> 
+    </head>
+    <link rel="stylesheet" href="1.CSS.css"><!-- this is linked to the CSS in the file-->
+           </header> 
+           <body>
+           <h1 style="text-align: center;">What Doctor are the best ? </h1>
+            <h3>Doctor</h3>
+            <ul>
+                <li><b> Do you know how many types of doctors are there?</b></li>
+            </ul>
+            <!-- this is an ordered list all the items belom this are included in it -->
+            <ol><!-- The div just means divider which helps when you read or see the code -->
+                <div class="doctor/salary"><!-- this is  where the main body of the HTML page is -->
+                    <b><li>Epidemiologists</li></b>
+                <p> Epidemiologists look for potential diseases that could appear, causing a lot of problems. <b>They search for vaccinations</b> for current terminal diseases such as HIV/AIDS and cancer.
+                     <br>There average salary is <b> $73,562</b> per year.</p></br>
+                     <b><li>Podiatrist</li></b>
+                <p>A podiatrist cares for issues afflicting the feet or ankles. They are often called<b> foot doctors </b>, treating afflictions such as calluses, nail disorders, athlete's foot or other foot infections or injuries.
+                <br>There average salary is <b>$89,690</b> per year.</br></p> 
+                <b><li>Audiologist</li></b>
+                <p>An Audiologist specializes in <b> ear-related issues </b> and fits all ages with hearing aids to improve hearing and address hearing loss. Generally, audiologists work in audiology clinics, hospitals, physicians' offices and sometimes in schools.
+                    <br>There  average salary is <b>$94,808</b>per year.</br></p>
+                    <b><li>General practitioner</li></b>
+                <p>A general practitioner or family <b> physician cares for the whole family</b> from children to the elderly, giving basic care. They do routine check-ups and screening tests, attending to ongoing medical conditions. Usually, they are the first to recognize major health problems, referring patients to a specialist.
+                <br>There average salary is  <b> $108,221</b> per year. </p></br>
+                <b><li>Pediatricia</li></b>
+                <p> A pediatrician cares for <b> children from birth to adolescence </b>, treating them for a variety of health issues from a common cold to more severe conditions. Their consolation rooms are usually bright and cheerful, appealing to children.
+                 <br> There average salary is <b>  $118,288 </b> per year . </p>
+                 <b><li>Obstetrics and gynecology physicians</li></b>
+                <p>Obstetrics and gynecology physicians specialize in medical care related<b>to pregnancy and childbirth.</b> They help to prevent diseases related to the reproductive system.
+                    <br>There average salary is <b> $125,821</b> per year .</br></p>
+                    <b><li>Otolaryngologist</li></b>
+                <p>An otolaryngologist is commonly known as an "ENT specialist" who concentrates on issues related to<b> the ear, nose and throat . </b> They also care for diseases related to the neck and heat, doing reconstructive and plastic surgery on the neck and head.
+                <br>There average salary is<b>$146,808</b> per year . </br></p>
+                <b><li>Oncologists</li></div></b>
+                <p>Oncologists care for <b>cancer patients.</b>  They focus on the treatment and prevention of cancer, administering chemotherapy and working along with radiation oncologists and surgeons to help patients suffering from cancer. Oncologists spend time with cancer survivors through follow-up sessions.
+                    <br>There average slary is <b> $169,061 </b>per year.</br></p>
+                    <b><li>Dentists</li></b>
+                <p>Dentists are doctors of <b> the mouth .</b> They examine teeth and gum health, checking for different issues such as bleeding gums and cavities.
+                    <br>There average salary is <b> $178,564 </b> per year. </br></p>
+                    <b><li>Neonatologist</li></b>
+                <p> <b>Newborn premature infants</b> or critically-ill infants are the focus of neonatology, a subspecialty of pediatrics. Neonatologists generally work in neonatal intensive care units.
+                  <br>There average salary is <b> $179,879</b> per year .</br></p>
+                  <b><li>Orthopedist</li></b>
+                <p>An orthopedist specializes in <b>correcting disorders, deformities or injuries to the skeleton.</b> They correct functional or congenital bone abnormalities with bracing, surgery or casting.
+                    <br>There average salary is <b>$185,126</b> per year</br></p>
+                    <b><li>Surgeon</li></b>
+                <p>Surgeons are known for performing a <b>wide variety of surgeries</b> at the operating table. Surgery is broken up into different specialties such as neurosurgery, cardiovascular surgery, oral surgery, ENT surgery, cardiovascular surgery and general surgery.
+                    <br>There average salary is <b> $190,268</b>per year.</br></p>
+                    <b> <li>]Neurologist</li></b>
+                <p> A neurologist specializes <b>in care for the nervous system.</b> This includes the brain, nerves and spinal cord. They care for patients who have Alzheimer's, Parkinson's, brain and spinal tumors, epilepsy or have just suffered a stroke and need care and monitoring.
+                    <br>There average salary is <b> $191,843 </b>per year.</br></p>
+                    <b><li>Rheumatologist</li></b>
+                <p>A rheumatologist diagnoses and <b>treats allergies and autoimmune diseases.</b> They also treat joint and tissue disorders afflicting the immune system.
+                    <br>There average salary is <b>$193,376</b>per year.</br></p>
+                    <b><li>Geriatric physician</li></b>
+                <p>Geriatric physicians <b>are for the elderly.</b> They treat patients in doctors' offices, their homes, hospitals and assisted living centers.
+                    <br>There average salary is <b> $193,403 </b>per year.</br></p>
+                    <b> <li>Urologists</li></b>
+                <p>Urologists care for <b> issues related to the urinary tract.</b> They treat urinary tract infections as well as issues related to the kidneys, bladder, male reproductive organs and adrenal glands.
+                    <br>There average salary is <b> $197,809</b>per year.</br></p>
+                    <b><li>Gastroenterologist</li></b>
+                <p>A gastroenterologist <b>specializes in digestive organs, </b>including the gallbladder, stomach, bowels, liver and pancreas. Patients with persistent heartburn, stomach pain or diarrhea are usually sent to a gastroenterologist.
+                    <br>There average salary is<b>$208,875</b>per year.</br></p>
+                    <b><li>Dermatologists</li></b>
+                <p> Dermatologists <b>care for skin issues</b> such as acne, skin allergies, moles, scars and sun damage. An important aspect of their job is checking patients for skin cancer risk factors.
+                    <br>There average salary is <b> $220,517 </b>per year.</br></p>
+                    <b><li>Endocrinologist</li></b>
+                <p>An endocrinologist treats the <b>endocrine system–the glands producing and secreting hormones</b> that regulate and control almost all of the body's functions. They often treat patients suffering from diabetes or thyroid disease.
+                    <br>There average salary is <b>$223,146</b>per year.</br></p>
+                    <b><li>Plastic surgeon</li></b>
+                <p> Plastic surgeons surgically restore, <b> reconstruct or alter the human body.</b> A plastic surgeon usually performs reconstructive surgery if a patient has body parts damaged by an accident, illness or malformation.
+                    <br>There average salary is <b> $226,889 </b>per year.</br></p>
+                    <b><li>Psychiatrists</li></b>
+                <p>Psychiatrists are medical doctors, they diagnose and <b> treat disorders of the mind.</b> They treat these disorders through a combination of psychotherapeutic treatment and medication.
+                    <br>There average salary is <b> $228,608</b>per year.</br></p>
+                    <b><li>Anesthesiologist</li></b>
+                <p>An anesthesiologist administers drugs to numb pain or <b>sedate patients during surgery.</b>They monitor patients during surgery, keeping watch on their vital signs. They also often manage hospital emergencies such as sudden breathing problems and cardiac arrest.
+                    <br>There average salary is <b> $226,974</b>per year.</br></p>
+                    <b><li>Nephrologists</li></b>
+                <p> Nephrologists treat <b> kidney disease and mineral and fluid imbalances</b> linked to kidney disease. They also treat high blood pressure.
+                    <br>There average salary is <b> $239,028</b>per year.</br></p>
+                    <b><li>Radiologists</li></b>
+                <p>Radiologists use <b> x-rays and other imaging technologies </b> to diagnose and detect physiological ailments. Using these methods of technology, they are able to scan a patient's body for cancer cells or look for breaks in fractures in accident victims
+                    <br> Their average salary is <b> $251,292 </b>per year.</br></p>
+                    <b><li>Cardiologists </li></b>
+                <p> Cardiologists focus on the treatment of the heart, its blood vessels, and <b> heart-related issues and diseases.</b> This specialty requires extensive training. They assess a patient's family and medical history to determine potential risk factors, taking action to prevent cardiovascular diseases.
+                    <br>There average salary is <b> $262,937</b>per year.</br></p>
+            </ol>
+            <!-- you can add a audio file by having < and > audio, video or whatever the file type is except for image -->
+            
+
+<p>By : Rohitha Jhansi Mutyala</p>
+   
+        <footer><p>&copy;2023 - this is a footer</p></footer>
+        </body>
+    
+
+</html>
